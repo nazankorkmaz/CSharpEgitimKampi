@@ -1,0 +1,11 @@
+.paragraf{
+    columns: 100px 3;
+    column-gap: 30px;
+    color: brown;
+    width: 50%;
+}
+
+.title{
+    column-span: all ;
+    display: block;
+}
