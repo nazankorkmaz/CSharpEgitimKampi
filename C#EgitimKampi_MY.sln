@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#EgitimKampi_MY", "C#EgitimKampi_MY\C#EgitimKampi_MY.csproj", "{1F883A67-DC6A-487C-80DE-EA76EEE1873D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainSubjects", "MainSubjects\MainSubjects.csproj", "{40F95EB9-8FAC-4AE7-9EA5-7F5A6688395F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F883A67-DC6A-487C-80DE-EA76EEE1873D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F883A67-DC6A-487C-80DE-EA76EEE1873D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F883A67-DC6A-487C-80DE-EA76EEE1873D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F883A67-DC6A-487C-80DE-EA76EEE1873D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F95EB9-8FAC-4AE7-9EA5-7F5A6688395F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F95EB9-8FAC-4AE7-9EA5-7F5A6688395F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F95EB9-8FAC-4AE7-9EA5-7F5A6688395F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F95EB9-8FAC-4AE7-9EA5-7F5A6688395F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6A4E689-ED94-4899-8A5C-C67B9740150A}
+	EndGlobalSection
+EndGlobal

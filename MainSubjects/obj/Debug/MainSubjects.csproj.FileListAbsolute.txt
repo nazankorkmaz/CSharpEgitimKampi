@@ -1,0 +1,7 @@
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\MainSubjects\bin\Debug\MainSubjects.exe.config
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\MainSubjects\bin\Debug\MainSubjects.exe
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\MainSubjects\bin\Debug\MainSubjects.pdb
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\MainSubjects\obj\Debug\MainSubjects.csproj.AssemblyReference.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\MainSubjects\obj\Debug\MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\MainSubjects\obj\Debug\MainSubjects.exe
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\MainSubjects\obj\Debug\MainSubjects.pdb
