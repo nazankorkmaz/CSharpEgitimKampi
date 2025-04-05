@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40F95EB9-8FAC-4AE7-9EA5-7F5A6688395F}|MainSubjects\\MainSubjects.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40F95EB9-8FAC-4AE7-9EA5-7F5A6688395F}|MainSubjects\\MainSubjects.csproj|solutionrelative:mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\MainSubjects\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainSubjects\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F883A67-DC6A-487C-80DE-EA76EEE1873D}|C#EgitimKampi_MY\\C#EgitimKampi_MY.csproj|C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\c#egitimkampi_my\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F883A67-DC6A-487C-80DE-EA76EEE1873D}|C#EgitimKampi_MY\\C#EgitimKampi_MY.csproj|solutionrelative:c#egitimkampi_my\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\C#EgitimKampi_MY\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C#EgitimKampi_MY\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "MainSubjects\\Program.cs",
               "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\MainSubjects\\Program.cs",
               "RelativeToolTip": "MainSubjects\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAewCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T15:27:20.481Z",
               "EditorCaption": ""
@@ -43,7 +43,8 @@
               "RelativeToolTip": "C#EgitimKampi_MY\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:26:20.308Z"
+              "WhenOpened": "2025-03-27T15:26:20.308Z",
+              "EditorCaption": ""
             }
           ]
         }
