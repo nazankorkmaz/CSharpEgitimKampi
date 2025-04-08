@@ -1,0 +1,7 @@
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\C#EgitimKampi_MY\bin\Debug\C#EgitimKampi_MY.exe.config
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\C#EgitimKampi_MY\bin\Debug\C#EgitimKampi_MY.exe
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\C#EgitimKampi_MY\bin\Debug\C#EgitimKampi_MY.pdb
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\C#EgitimKampi_MY\obj\Debug\C#EgitimKampi_MY.csproj.AssemblyReference.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\C#EgitimKampi_MY\obj\Debug\C#EgitimKampi_MY.csproj.CoreCompileInputs.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\C#EgitimKampi_MY\obj\Debug\C#EgitimKampi_MY.exe
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\C#EgitimKampi_MY\obj\Debug\C#EgitimKampi_MY.pdb
