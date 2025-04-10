@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#EgitimKampi_MY", "C#EgitimKampi_MY\C#EgitimKampi_MY.csproj", "{1F883A67-DC6A-487C-80DE-EA76EEE1873D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainSubjects", "MainSubjects\MainSubjects.csproj", "{40F95EB9-8FAC-4AE7-9EA5-7F5A6688395F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseGiris", "DatabaseGiris\DatabaseGiris.csproj", "{A05D167D-6788-4181-B646-472EC60D12B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{40F95EB9-8FAC-4AE7-9EA5-7F5A6688395F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40F95EB9-8FAC-4AE7-9EA5-7F5A6688395F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40F95EB9-8FAC-4AE7-9EA5-7F5A6688395F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05D167D-6788-4181-B646-472EC60D12B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05D167D-6788-4181-B646-472EC60D12B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05D167D-6788-4181-B646-472EC60D12B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05D167D-6788-4181-B646-472EC60D12B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

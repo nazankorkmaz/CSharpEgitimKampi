@@ -68,6 +68,36 @@ namespace C_EgitimKampi_MY
 
             #endregion
 
+            #region foreach  --> ama burada artım kuralı yok
+
+            // 1: degisken turu
+            // 2 degişken adı
+            // 3: In
+            // 4  Liste, koleksiyon,dizi
+
+            string[] sehir2 = { "İstanbul", "Ankara", "İzmir", "Bursa" };
+            foreach(string item in sehir2)
+            {
+                Console.WriteLine(item);
+            }
+
+
+            #endregion
+
+            #region List
+
+            List<int> numbers = new List<int>()
+            {
+                2,3,4,5,6
+            };
+            Console.WriteLine(numbers);  // bunu verir : System.Collections.Generic.List`1[System.Int32]
+            numbers.Add(1);
+            foreach(int item in numbers)
+            {
+                Console.WriteLine(item);
+            }
+
+            #endregion
 
             Console.Read();
 
