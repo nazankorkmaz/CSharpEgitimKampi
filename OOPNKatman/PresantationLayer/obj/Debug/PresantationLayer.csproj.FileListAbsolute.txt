@@ -1,0 +1,17 @@
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\bin\Debug\PresantationLayer.exe.config
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\bin\Debug\PresantationLayer.exe
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\bin\Debug\PresantationLayer.pdb
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\obj\Debug\PresantationLayer.csproj.AssemblyReference.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\obj\Debug\PresantationLayer.Properties.Resources.resources
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\obj\Debug\PresantationLayer.csproj.GenerateResource.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\obj\Debug\PresantationLayer.csproj.CoreCompileInputs.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\obj\Debug\PresantationLayer.exe
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\obj\Debug\PresantationLayer.pdb
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\bin\Debug\EntityFramework.dll
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\bin\Debug\OOPNKatman_BussinessKatman.dll
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\bin\Debug\OOPNKatman_BussinessKatman.pdb
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\bin\Debug\OOPNKatman_BussinessKatman.dll.config
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\bin\Debug\EntityFramework.xml
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\PresantationLayer\obj\Debug\Presanta.9C7A742A.Up2Date

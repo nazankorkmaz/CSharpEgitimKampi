@@ -1,0 +1,12 @@
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_EntityLayer\bin\Debug\OOPNKatman_EntityLayer.dll.config
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_EntityLayer\bin\Debug\OOPNKatman_EntityLayer.dll
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_EntityLayer\bin\Debug\OOPNKatman_EntityLayer.pdb
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_EntityLayer\obj\Debug\OOPNKatman_EntityLayer.csproj.AssemblyReference.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_EntityLayer\obj\Debug\OOPNKatman_EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_EntityLayer\obj\Debug\OOPNKatm.0AA602B2.Up2Date
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_EntityLayer\obj\Debug\OOPNKatman_EntityLayer.dll
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_EntityLayer\obj\Debug\OOPNKatman_EntityLayer.pdb

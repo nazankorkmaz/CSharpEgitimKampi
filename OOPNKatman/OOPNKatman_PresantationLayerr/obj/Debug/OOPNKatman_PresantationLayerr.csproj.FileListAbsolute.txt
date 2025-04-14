@@ -1,0 +1,7 @@
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_PresantationLayerr\bin\Debug\OOPNKatman_PresantationLayerr.exe.config
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_PresantationLayerr\bin\Debug\OOPNKatman_PresantationLayerr.exe
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_PresantationLayerr\bin\Debug\OOPNKatman_PresantationLayerr.pdb
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_PresantationLayerr\obj\Debug\OOPNKatman_PresantationLayerr.csproj.AssemblyReference.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_PresantationLayerr\obj\Debug\OOPNKatman_PresantationLayerr.csproj.CoreCompileInputs.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_PresantationLayerr\obj\Debug\OOPNKatman_PresantationLayerr.exe
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_PresantationLayerr\obj\Debug\OOPNKatman_PresantationLayerr.pdb

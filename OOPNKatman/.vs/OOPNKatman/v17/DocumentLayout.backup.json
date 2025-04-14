@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_dataaccesslayer\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|solutionrelative:oopnkatman_dataaccesslayer\\abstract\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_dataaccesslayer\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|solutionrelative:oopnkatman_dataaccesslayer\\abstract\\iorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_dataaccesslayer\\abstract\\iadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|solutionrelative:oopnkatman_dataaccesslayer\\abstract\\iadmindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_dataaccesslayer\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|solutionrelative:oopnkatman_dataaccesslayer\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_dataaccesslayer\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|solutionrelative:oopnkatman_dataaccesslayer\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|solutionrelative:oopnkatman_dataaccesslayer\\abstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB9BD19-7E69-4F99-8BDE-5F55BC984BCF}|OOPNKatman_EntityLayer\\OOPNKatman_EntityLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_entitylayer\\concrete\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB9BD19-7E69-4F99-8BDE-5F55BC984BCF}|OOPNKatman_EntityLayer\\OOPNKatman_EntityLayer.csproj|solutionrelative:oopnkatman_entitylayer\\concrete\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_dataaccesslayer\\migrations\\202504142101302_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|solutionrelative:oopnkatman_dataaccesslayer\\migrations\\202504142101302_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4275F258-21E0-46D1-8D60-235ADB579C5E}|PresantationLayer\\PresantationLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\presantationlayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4275F258-21E0-46D1-8D60-235ADB579C5E}|PresantationLayer\\PresantationLayer.csproj|solutionrelative:presantationlayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_dataaccesslayer\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|solutionrelative:oopnkatman_dataaccesslayer\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB9BD19-7E69-4F99-8BDE-5F55BC984BCF}|OOPNKatman_EntityLayer\\OOPNKatman_EntityLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_entitylayer\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB9BD19-7E69-4F99-8BDE-5F55BC984BCF}|OOPNKatman_EntityLayer\\OOPNKatman_EntityLayer.csproj|solutionrelative:oopnkatman_entitylayer\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB9BD19-7E69-4F99-8BDE-5F55BC984BCF}|OOPNKatman_EntityLayer\\OOPNKatman_EntityLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_entitylayer\\concrete\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB9BD19-7E69-4F99-8BDE-5F55BC984BCF}|OOPNKatman_EntityLayer\\OOPNKatman_EntityLayer.csproj|solutionrelative:oopnkatman_entitylayer\\concrete\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB9BD19-7E69-4F99-8BDE-5F55BC984BCF}|OOPNKatman_EntityLayer\\OOPNKatman_EntityLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_entitylayer\\concrete\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB9BD19-7E69-4F99-8BDE-5F55BC984BCF}|OOPNKatman_EntityLayer\\OOPNKatman_EntityLayer.csproj|solutionrelative:oopnkatman_entitylayer\\concrete\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_dataaccesslayer\\context\\kampcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217E5E2A-73DF-4234-A0EE-F6477614DB53}|OOPNKatman_DataAccessLayer\\OOPNKatman_DataAccessLayer.csproj|solutionrelative:oopnkatman_dataaccesslayer\\context\\kampcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB9BD19-7E69-4F99-8BDE-5F55BC984BCF}|OOPNKatman_EntityLayer\\OOPNKatman_EntityLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_entitylayer\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB9BD19-7E69-4F99-8BDE-5F55BC984BCF}|OOPNKatman_EntityLayer\\OOPNKatman_EntityLayer.csproj|solutionrelative:oopnkatman_entitylayer\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4275F258-21E0-46D1-8D60-235ADB579C5E}|PresantationLayer\\PresantationLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\presantationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4275F258-21E0-46D1-8D60-235ADB579C5E}|PresantationLayer\\PresantationLayer.csproj|solutionrelative:presantationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB9BD19-7E69-4F99-8BDE-5F55BC984BCF}|OOPNKatman_EntityLayer\\OOPNKatman_EntityLayer.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_entitylayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB9BD19-7E69-4F99-8BDE-5F55BC984BCF}|OOPNKatman_EntityLayer\\OOPNKatman_EntityLayer.csproj|solutionrelative:oopnkatman_entitylayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9E2A0C-6AE9-4A05-963F-44875F107FD6}|OOPNKatman_BussinessKatman\\OOPNKatman_BussinessKatman.csproj|c:\\users\\korkm\\onedrive\\masa\u00FCst\u00FC\\c#egitimkampi_my\\oopnkatman\\oopnkatman_bussinesskatman\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A9E2A0C-6AE9-4A05-963F-44875F107FD6}|OOPNKatman_BussinessKatman\\OOPNKatman_BussinessKatman.csproj|solutionrelative:oopnkatman_bussinesskatman\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICustomerDal.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "RelativeToolTip": "OOPNKatman_DataAccessLayer\\Abstract\\ICustomerDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:21:28.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOrderDal.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "RelativeToolTip": "OOPNKatman_DataAccessLayer\\Abstract\\IOrderDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:20:57.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAdminDal.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "RelativeToolTip": "OOPNKatman_DataAccessLayer\\Abstract\\IAdminDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:20:28.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Abstract\\IProductDal.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_DataAccessLayer\\Abstract\\IProductDal.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Abstract\\IProductDal.cs",
+              "RelativeToolTip": "OOPNKatman_DataAccessLayer\\Abstract\\IProductDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:18:47.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "RelativeToolTip": "OOPNKatman_DataAccessLayer\\Abstract\\ICategoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:18:29.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "RelativeToolTip": "OOPNKatman_DataAccessLayer\\Abstract\\IGenericDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:13:09.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_DataAccessLayer\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "OOPNKatman_DataAccessLayer\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:52:58.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\PresantationLayer\\App.config",
+              "RelativeDocumentMoniker": "PresantationLayer\\App.config",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\PresantationLayer\\App.config",
+              "RelativeToolTip": "PresantationLayer\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-14T17:53:21.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KampContext.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Context\\KampContext.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_DataAccessLayer\\Context\\KampContext.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Context\\KampContext.cs",
+              "RelativeToolTip": "OOPNKatman_DataAccessLayer\\Context\\KampContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:49:17.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_EntityLayer\\Concrete\\Admin.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_EntityLayer\\Concrete\\Admin.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_EntityLayer\\Concrete\\Admin.cs",
+              "RelativeToolTip": "OOPNKatman_EntityLayer\\Concrete\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:47:53.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\PresantationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "PresantationLayer\\Form1.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\PresantationLayer\\Form1.cs [Design]",
+              "RelativeToolTip": "PresantationLayer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:22:05.516Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_EntityLayer\\Concrete\\Order.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_EntityLayer\\Concrete\\Order.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_EntityLayer\\Concrete\\Order.cs",
+              "RelativeToolTip": "OOPNKatman_EntityLayer\\Concrete\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:18:44.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_EntityLayer\\Concrete\\Customer.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_EntityLayer\\Concrete\\Customer.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_EntityLayer\\Concrete\\Customer.cs",
+              "RelativeToolTip": "OOPNKatman_EntityLayer\\Concrete\\Customer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:17:32.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_EntityLayer\\Concrete\\Product.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_EntityLayer\\Concrete\\Product.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_EntityLayer\\Concrete\\Product.cs",
+              "RelativeToolTip": "OOPNKatman_EntityLayer\\Concrete\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:15:04.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_EntityLayer\\Concrete\\Category.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_EntityLayer\\Concrete\\Category.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_EntityLayer\\Concrete\\Category.cs",
+              "RelativeToolTip": "OOPNKatman_EntityLayer\\Concrete\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:13:15.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_EntityLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_EntityLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_EntityLayer\\Class1.cs",
+              "RelativeToolTip": "OOPNKatman_EntityLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:03:37.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_BussinessKatman\\Class1.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_BussinessKatman\\Class1.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_BussinessKatman\\Class1.cs",
+              "RelativeToolTip": "OOPNKatman_BussinessKatman\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:02:48.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 12,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "202504142101302_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Migrations\\202504142101302_mig1.cs",
+              "RelativeDocumentMoniker": "OOPNKatman_DataAccessLayer\\Migrations\\202504142101302_mig1.cs",
+              "ToolTip": "C:\\Users\\korkm\\OneDrive\\Masa\u00FCst\u00FC\\C#EgitimKampi_MY\\OOPNKatman\\OOPNKatman_DataAccessLayer\\Migrations\\202504142101302_mig1.cs",
+              "RelativeToolTip": "OOPNKatman_DataAccessLayer\\Migrations\\202504142101302_mig1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T21:01:39.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\bin\Debug\OOPNKatman_DataAccessLayer.dll.config
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\bin\Debug\OOPNKatman_DataAccessLayer.dll
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\bin\Debug\OOPNKatman_DataAccessLayer.pdb
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\bin\Debug\OOPNKatman_EntityLayer.dll
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\bin\Debug\OOPNKatman_EntityLayer.pdb
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\bin\Debug\OOPNKatman_EntityLayer.dll.config
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\obj\Debug\OOPNKatman_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\obj\Debug\OOPNKatman_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\obj\Debug\OOPNKatm.F1B48CCF.Up2Date
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\obj\Debug\OOPNKatman_DataAccessLayer.dll
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\obj\Debug\OOPNKatman_DataAccessLayer.pdb
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\obj\Debug\OOPNKatman_DataAccessLayer.Migrations.mig1.resources
+C:\Users\korkm\OneDrive\Masaüstü\C#EgitimKampi_MY\OOPNKatman\OOPNKatman_DataAccessLayer\obj\Debug\OOPNKatman_DataAccessLayer.csproj.GenerateResource.cache
